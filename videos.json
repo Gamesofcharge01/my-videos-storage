@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "title": "Урок 1: Основы",
+    "title": "Frieren-test",
     "category": "Обучающие",
-    "url": "https://github.com"
+    "url": "https://github.com/Gamesofcharge01/my-videos-storage/releases/tag/v1"
   },
   {
     "id": "2",
-    "title": "Игровой момент",
+    "title": "Название второго видео",
     "category": "Игровые",
-    "url": "https://github.com"
+    "url": "СЮДА_ВСТАВЬ_ССЫЛКУ_НА_ВТОРОЕ_ВИДЕО_ИЗ_ШАГА_2"
   }
 ]
