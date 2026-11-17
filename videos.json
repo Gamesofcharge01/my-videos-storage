@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Урок 1: Основы",
+    "category": "Обучающие",
+    "url": "https://github.com"
+  },
+  {
+    "id": "2",
+    "title": "Игровой момент",
+    "category": "Игровые",
+    "url": "https://github.com"
+  }
+]
